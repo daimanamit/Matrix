@@ -1,9 +1,9 @@
-##Amit Daiman, Locker Number - 375
+
 # -*- coding: utf-8 -*-
 """
 Created on Sat Dec 21 19:58:41 2019
 
-@author: ada003
+@author: amitdaiman
 """
 #multiply two matrices
 #input 3*3 matrices
